@@ -1,0 +1,13 @@
+
+# Credenciais
+.env
+
+# Dados baixados do Drive e arquivos compactados
+data/
+*.zip
+*.csv
+
+# Arquivos gerados pelo Python e pelo Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
