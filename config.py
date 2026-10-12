@@ -42,7 +42,6 @@ POSTGRES_CONFIG = {
 }
 
 
-
 ANO = "2025"
 
 
